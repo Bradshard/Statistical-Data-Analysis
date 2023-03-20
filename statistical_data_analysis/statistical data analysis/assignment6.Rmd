@@ -1,6 +1,6 @@
 ---
 title: "Assignment#6: Evaluation and Validity of Clusters"
-author: "Mert Efe"
+author: "Mert Efe","Burkan Bereketoglu"
 date: "06.12.2021"
 output: 
   pdf_document:
